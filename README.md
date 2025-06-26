@@ -1,16 +1,27 @@
-## Hi there 👋
+Hi there, I'm Amulya! 👋
+I’m a 2nd-semester B.E. Computer Science student at Presidency University, passionate about programming and real-world problem solving.
 
-<!--
-**amulyarstar/amulyarstar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Projects
+Smart Streetlight (Arduino + IoT)
+Developed an energy-efficient streetlight system with accident detection using Arduino.
+Integrated sensors for adaptive lighting and safety alerts.
+JalaRaksha (UI/UX Design)
+Designed a Figma-based mobile UI to help rural communities manage water supply and tanker requests.
+Focused on simple, accessible design for low-literacy users.
 
-Here are some ideas to get you started:
+Skills
+Programming: Python 
+Web: HTML, CSS (beginner)
+Tools: Figma (UI/UX design), Arduino IDE
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What’s Next
+Learning data structures and algorithms
+Exploring more embedded systems projects
+Improving UI/UX design skills
+Connect with me
+
+Instagram: @stu.dioamulya
+
+LinkedIn: linkedin.com/in/amulya-r-962602324
+
+Thanks for stopping by!
