@@ -3,7 +3,7 @@ I’m a 2nd-semester B.E. Computer Science student at Presidency University, pas
 
 Projects
 Smart Streetlight (Arduino + IoT)
-Developed an energy-efficient streetlight system with accident detection using Arduino.
+Developed an energy-efficient streetlight system with accident detection using Arduino with my team.
 Integrated sensors for adaptive lighting and safety alerts.
 JalaRaksha (UI/UX Design)
 Designed a Figma-based mobile UI to help rural communities manage water supply and tanker requests.
