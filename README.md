@@ -108,6 +108,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
 </picture>
 
+
 ### 👥 Open To
 - 🏢 Internships in **Bangalore** (Hybrid/Remote)
 - 🤝 Collaborations with **Indian startups**
