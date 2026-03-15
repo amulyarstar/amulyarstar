@@ -64,6 +64,12 @@
 - 📖 "Java: The Complete Reference" (Daily reference)
 
 ---
+### 🐍 The Contribution Journey
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
+</picture>
 
 ### 🤝 Let's Connect! (Indian Devs Welcome!)
 <p align="left">
