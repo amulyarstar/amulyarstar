@@ -11,7 +11,7 @@
 ### 🚀 My Current Focus
 - 🧠 **Daily Grind:** Solving DSA problems in **Java** (Day 5/100 🔥)
 - 🏗️ **Real-World Build:** Starting a **Full-Stack E-Commerce App** (Learning Spring Boot & MySQL)
-- 📍 **Based in:** Karnataka, India (Open to Bangalore/Mysore opportunities)
+- 📍 **Based in:** Karnataka, India 
 - ☕ **Fuel:** Filter coffee + DSA problems = ❤️
 
 ### 📊 GitHub Stats
@@ -107,6 +107,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com">
 </picture>
+
 
 
 ### 👥 Open To
