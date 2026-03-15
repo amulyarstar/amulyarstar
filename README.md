@@ -1,16 +1,50 @@
-
-# 💫 About Me:
-Hi there, I'm Amulya R! 👋 I’m a 4th-semester B.E. Computer Science student at Presidency University, passionate about programming and real-world problem solving.<br><br>Projects Smart Streetlight (Arduino + IoT) Developed an energy-efficient streetlight system with accident detection using Arduino with my team. Integrated sensors for adaptive lighting and safety alerts. JalaRaksha (UI/UX Design) Designed a Figma-based mobile UI to help rural communities manage water supply and tanker requests. Focused on simple, accessible design for low-literacy users.<br><br>Skills Programming: Python Web: HTML, CSS (beginner) Tools: Figma (UI/UX design), Arduino IDE<br><br>What’s Next Learning data structures and algorithms Exploring more embedded systems projects Improving UI/UX design skills Connect with me Instagram: @stu.dioamulya<br><br>LinkedIn: linkedin.com/in/amulya-r-962602324
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amulyarstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amulyarstar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# ⚡ Amulya | Engineering & DSA 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com..." alt="Typing SVG" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amulyarstar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 My Current Focus
+- 🧠 **Daily Grind:** Solving DSA problems in **Java** to master complexity and optimization.
+- 🏗️ **Real-World Build:** Starting a **Full-Stack [Project Name]** (Learning Spring Boot & MySQL).
+- 📈 **Goal:** 100 consecutive days of meaningful commits to build an elite "Green Wall."
+
+### 📊 Engineering Stats & Consistency
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com" width="48%" />
+</p>
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+  <img src="https://img.shields.io" />
+</p>
+
+---
+
+### 📉 DSA Roadmap & Live Tracker
+*Tracking my journey from 2 problems to 500+.*
+
+
+| Day | Problem Solved | Difficulty | Key Concept Learned |
+| :--- | :--- | :--- | :--- |
+| Day 1 | Two Sum | 🟢 Easy | Array HashMaps |
+| Day 2 | Reverse String | 🟢 Easy | Two-Pointer Logic |
+| Day 3 | *In Progress* | 🟡 Medium | *Learning today...* |
+
+### 🔥 Upcoming Real-World Projects
+1. **[Project Name]**: A [One Sentence Description] solving [Problem]. 
+   - *Status:* 🚧 Planning & Architecture Phase.
+   - *Tech:* Java, Spring Boot, PostgreSQL.
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://instagram.com" target="blank"><img align="center" src="https://raw.githubusercontent.com" alt="Instagram" height="30" width="40" /></a>
+</p>
