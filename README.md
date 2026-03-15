@@ -97,7 +97,7 @@
 ---
 
 ### 👥 Open To
-- 🏢 Internships in **Bangalore/Mysore** (Hybrid/Remote)
+- 🏢 Internships in **Bangalore** (Hybrid/Remote)
 - 🤝 Collaborations with **Indian startups**
 - 🎯 DSA study **accountability partners** from India
 - 💡 Freelance **Java/Spring Boot** projects
@@ -106,7 +106,7 @@
 
 ### 🏏 Beyond Code
 - ☕ **Filter coffee connoisseur** - Ask me for brew tips!
-- 🎵 Listening to **Kishore Kumar** while coding
+- 🎵 Listening to **Kaviraj Songs** while coding
 - 🏏 **Cricket stats enthusiast** (IPL season = less sleep)
 
 ---
