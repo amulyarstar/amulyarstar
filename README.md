@@ -32,7 +32,7 @@
 
 ---
 
-### 📈 My DSA Journey (From Karnataka to MAANG)
+### 📈 My DSA Journey
 *Tracking my progress - 4 problems solved and counting! 🚀*
 
 | Day | Problem | Difficulty | Concept | Time | ☕ Coffee Break? |
