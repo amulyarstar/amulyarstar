@@ -64,13 +64,18 @@
   🔗 <a href="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3">Click here if audio doesn’t play</a>
 </p>
 ---
+---
+
 ### 📈 My DSA Journey
+
 | Day | Problem | Difficulty | Concept | Time | ☕ Coffee Break? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Day 1 | Two Sum | 🟢 Easy | Array + HashMap | 15 min | ☕ Filter Coffee |
 | Day 2 | Reverse String | 🟢 Easy | Two-Pointer | 10 min | ☕ Strong Espresso |
 | Day 3 | Palindrome Number | 🟢 Easy | Stack | 12 min | ☕ Cold Coffee |
 | Day 4 | Reverse Integer | 🟢 Easy | Math/Logic | 15 min | ☕ Masala Chai |
+
+---
 
 <img src="https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo" />
 ---
