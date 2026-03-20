@@ -48,8 +48,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
 </picture>
 
-*(Note: Requires GitHub Action setup to generate the snake animation)*
-
 ---
 
 ### 📈 My DSA Journey
@@ -60,6 +58,7 @@
 | Day 3 | Palindrome Number | 🟢 Easy | Stack | 12 min | ☕ Cold Coffee |
 | Day 4 | Reverse Integer | 🟢 Easy | Math/Logic | 15 min | ☕ Masala Chai |
 
+<img src="https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo" />
 ---
 
 ### 🤝 Let's Connect!
