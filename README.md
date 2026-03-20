@@ -57,11 +57,9 @@
 
 <p align="center">
   <audio controls>
-    <source src="https://github.com/amulyarstar/amulyarstar/blob/main/voice.mp3.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3.mp3" type="audio/mpeg">
   </audio>
 </p>
-
----
 
 ### 📈 My DSA Journey
 | Day | Problem | Difficulty | Concept | Time | ☕ Coffee Break? |
