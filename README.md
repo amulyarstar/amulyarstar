@@ -50,17 +50,20 @@
 
 ---
 ---
-
 <p align="center">
   🔊 <b>Don’t just read my profile… listen to it</b>
 </p>
 
 <p align="center">
   <audio controls>
-    <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3.mp3" type="audio/mpeg">
+    <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3" type="audio/mpeg">
   </audio>
 </p>
 
+<p align="center">
+  🔗 <a href="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3">Click here if audio doesn’t play</a>
+</p>
+---
 ### 📈 My DSA Journey
 | Day | Problem | Difficulty | Concept | Time | ☕ Coffee Break? |
 | :--- | :--- | :--- | :--- | :--- | :--- |
