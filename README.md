@@ -49,6 +49,19 @@
 </picture>
 
 ---
+---
+
+<p align="center">
+  🔊 <b>Don’t just read my profile… listen to it</b>
+</p>
+
+<p align="center">
+  <audio controls>
+    <source src="https://github.com/amulyarstar/amulyarstar/blob/main/voice.mp3.mp3" type="audio/mpeg">
+  </audio>
+</p>
+
+---
 
 ### 📈 My DSA Journey
 | Day | Problem | Difficulty | Concept | Time | ☕ Coffee Break? |
