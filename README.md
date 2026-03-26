@@ -10,7 +10,7 @@
 
 ### 🚀 My Current Focus
 - 🎓 **Education:** CSE Student @ Presidency University, Bengaluru (4th Sem)
-- 🧠 **Daily Grind:** Solving DSA problems in **Java** (Day 5/100 🔥)
+- 🧠 **Daily Grind:** Solving DSA problems in **Java**
 - 🏗️ **Current Build:** Full-Stack Bulk Emailer with FastAPI & React
 - 📍 **Based in:** Karnataka, India 
 - ☕ **Fuel:** Filter coffee + DSA problems = ❤️
