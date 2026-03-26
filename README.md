@@ -16,15 +16,9 @@
 - ☕ **Fuel:** Filter coffee + DSA problems = ❤️
 
 ### 🏆 Open Source Journey
-- 🌟 **Mentee @ GSSoC (GirlScript Summer of Code):** Contributed to real-world open-source projects.
-- ❄️ **Contributor @ SWoC (Social Winter of Code):** Focused on Git/GitHub workflows and collaboration.
+- 🌟 **Mentee @ GSSoC:** Contributed to real-world open-source projects.
+- ❄️ **Contributor @ SWoC:** Focused on Git/GitHub workflows.
 - 🤝 **EddieHub Community:** Active member practicing "Collaboration over Competition."
-
----
-
-### 📂 Featured Projects
-* **Bulk Emailer System:** Full-stack app built with **FastAPI** and **React** for high-volume delivery.
-* **Fraud Proxy Attendance Detection:** AI-based system to prevent attendance manipulation in colleges.
 
 ---
 
@@ -36,17 +30,22 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
-### 📊 GitHub Stats
+
+### 📊 GitHub Analysis
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&theme=tokyonight" alt="Amulya's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyarstar&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
+
 ---
+
 ### 🐍 The Contribution Journey
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
@@ -55,23 +54,27 @@
 </picture>
 
 ---
----
+
+### 💻 LeetCode Progress
 <p align="center">
-  🔊 <b>Don’t just read my profile… listen to it</b>
+  <img src="https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo" />
 </p>
 
+---
+
+### 📂 Featured Projects
+* **Fraud Proxy Attendance Detection:** AI-based system to prevent attendance manipulation.
+
+---
+
 <p align="center">
+  🔊 <b>Don’t just read my profile… listen to it</b><br>
   <audio controls>
     <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3" type="audio/mpeg">
-  </audio>
-</p>
-
-<p align="center">
+  </audio><br>
   🔗 <a href="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3">Click here if audio doesn’t play</a>
 </p>
----
----
-<img src="https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo" />
+
 ---
 
 ### 🤝 Let's Connect!
@@ -85,7 +88,7 @@
   <a href="mailto:amulyacode20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://x.com/amulya_r7472">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-</a>
+  <a href="https://x.com/amulya_r7472">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
 </p>
