@@ -37,15 +37,7 @@
 ### 📊 GitHub Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&theme=tokyonight&cache_seconds=86400" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=86400" />
 </p>
 
 ### 🐍 The Contribution Journey
