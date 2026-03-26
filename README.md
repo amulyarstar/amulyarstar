@@ -34,13 +34,21 @@
 
 ---
 
+---
+
 ### 📊 GitHub Analysis
 
-![Amulya's Stats](https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=amulyarstar&theme=tokyonight)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&theme=tokyonight&langs_count=8&cache_seconds=1800" />
+</p>
 
 ---
 
