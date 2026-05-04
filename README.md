@@ -9,6 +9,7 @@
 ---
 
 ### 🚀 My Current Focus
+- 🚀 Role: Gen AI Developer Intern @ HiDevs
 - 🎓 **Education:** CSE Student @ Presidency University, Bengaluru (4th Sem)
 - 🧠 **Daily Grind:** Solving DSA problems in **Java**
 - 📍 **Based in:** Karnataka, India 
