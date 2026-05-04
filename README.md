@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F9AF7&center=true&vCenter=true&width=500&lines=Java+Developer;DSA+Enthusiast;Open+Source+Contributor;Filter+Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F9AF7&center=true&vCenter=true&width=500&lines=Java+Developer;DSA+Enthusiast;Open+Source+Contributor;Gen AI Intern;Filter+Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,6 @@
 ### 🚀 My Current Focus
 - 🎓 **Education:** CSE Student @ Presidency University, Bengaluru (4th Sem)
 - 🧠 **Daily Grind:** Solving DSA problems in **Java**
-- 🏗️ **Current Build:** Full-Stack Bulk Emailer with FastAPI & React
 - 📍 **Based in:** Karnataka, India 
 - ☕ **Fuel:** Filter coffee + DSA problems = ❤️
 
@@ -30,6 +29,11 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Concurrency%20Control-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 </p>
 
 ---
