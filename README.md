@@ -24,7 +24,12 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=dracula&column=4&margin-w=15&no-bg=true&hide_border=true" alt="trophy" />
+  </a>
+</p>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -46,6 +51,9 @@
 </p>
 
 ### 🐍 The Contribution Journey
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amulyarstar&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
