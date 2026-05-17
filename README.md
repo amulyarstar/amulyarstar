@@ -85,12 +85,6 @@
 
 ---
 
-## 💻 LeetCode
-
-[![LeetCode Stats](https://leetcode.com/u/amulyar122006/)
-
----
-
 ## 📜 Certifications
 
 - **Gemini for Data Scientists and Analysts** — Google Cloud Skills Boost · Dec 2025
