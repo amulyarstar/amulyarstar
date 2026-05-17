@@ -10,7 +10,7 @@
 
 | Project | What it solves | Stack | Status |
 |---|---|---|---|
-| [TrustTrack](https://github.com/amulyarstar/TrustTrack) | Eliminates proxy attendance fraud via AI identity verification | React · Firebase · Gemini API · RBAC | Hackathon · 85 users tested |
+| [TrustTrack](https://fraud-attendance-mvp.web.app/) | Eliminates proxy attendance fraud via AI identity verification | React · Firebase · Gemini API · RBAC | [🔴 Live](https://fraud-attendance-mvp.web.app/) · 85 users tested |
 | [Intelligent Resume Analyzer](https://github.com/amulyarstar/Intelligent-Resume-Analyzer_HiDevs) | Automated resume screening with skill-gap analysis & match scoring | Python · JSON | Solo · Live |
 | [SmartStreetlight-IoT](https://github.com/amulyarstar/SmartStreetlight-IoT) | Event-driven IoT streetlight with accident detection | Arduino C++ · LDR/PIR/Vibration · Blynk | Hardware · Built & tested |
 | [DSA-Solutions-Java](https://github.com/amulyarstar/DSA-Solutions-Java) | Structured daily DSA practice | Java | Ongoing |
@@ -73,18 +73,30 @@
 
 ---
 
-## 📜 Certifications
+## 📊 GitHub Stats
 
-- **Gemini for Data Scientists and Analysts** — Google Cloud Skills Boost · Dec 2025
-  - BigQuery · SQL · Gemini AI · ARIMA_PLUS time-series forecasting
-- **Introduction to Image Generation** — Google Cloud Skills Boost · Oct 2025
-  - Generative AI · Diffusion models
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=dracula&column=7&margin-w=15&no-bg=true&hide_border=true" alt="trophy" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+</p>
 
 ---
 
 ## 💻 LeetCode
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/amulyar122006/)
+
+---
+
+## 📜 Certifications
+
+- **Gemini for Data Scientists and Analysts** — Google Cloud Skills Boost · Dec 2025
+  - BigQuery · SQL · Gemini AI · ARIMA_PLUS time-series forecasting
+- **Introduction to Image Generation** — Google Cloud Skills Boost · Oct 2025
+  - Generative AI · Diffusion models
 
 ---
 
