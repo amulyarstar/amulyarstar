@@ -87,7 +87,7 @@
 
 ## 💻 LeetCode
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/amulyar122006/)
+[![LeetCode Stats](https://leetcode.com/u/amulyar122006/)
 
 ---
 
