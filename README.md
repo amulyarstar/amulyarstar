@@ -1,55 +1,70 @@
-# ⚡ Amulya | Engineering & DSA | ನಮಸ್ಕಾರ!
+# Amulya R — Gen AI Developer & Full-Stack Engineer
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F9AF7&center=true&vCenter=true&width=500&lines=Java+Developer;DSA+Enthusiast;Open+Source+Contributor;Filter+Coffee+%2B+Code+%3D+%E2%9D%A4%EF%B8%8F" alt="Typing SVG" />
-  </a>
-</p>
+> Building intelligent, full-stack systems at the intersection of Generative AI and product engineering.
+
+**Gen AI Developer Intern @ HiDevs** · Integrating Gemini API into production web workflows, building AI-powered tools, and shipping real projects.
 
 ---
 
-### 🚀 My Current Focus
-- 🚀 Role: Gen AI Developer Intern @ HiDevs
-- 🎓 **Education:** CSE Student @ Presidency University, Bengaluru (4th Sem)
-- 🧠 **Daily Grind:** Solving DSA problems in **Java**
-- 📍 **Based in:** Karnataka, India 
-- ☕ **Fuel:** Filter coffee + DSA problems = ❤️
+## 🚀 What I've Built
 
-### 🏆 Open Source Journey
-- 🌟 **Mentee @ GSSoC:** Contributed to real-world open-source projects.
-- ❄️ **Contributor @ SWoC:** Focused on Git/GitHub workflows.
-- 🤝 **EddieHub Community:** Active member practicing "Collaboration over Competition."
+| Project | What it solves | Stack | Status |
+|---|---|---|---|
+| [TrustTrack](https://github.com/amulyarstar/TrustTrack) | Eliminates proxy attendance fraud via AI identity verification | React · Firebase · Gemini API · RBAC | Hackathon · 85 users tested |
+| [Intelligent Resume Analyzer](https://github.com/amulyarstar/Intelligent-Resume-Analyzer_HiDevs) | Automated resume screening with skill-gap analysis & match scoring | Python · JSON | Solo · Live |
+| [SmartStreetlight-IoT](https://github.com/amulyarstar/SmartStreetlight-IoT) | Event-driven IoT streetlight with accident detection | Arduino C++ · LDR/PIR/Vibration · Blynk | Hardware · Built & tested |
+| [DSA-Solutions-Java](https://github.com/amulyarstar/DSA-Solutions-Java) | Structured daily DSA practice | Java | Ongoing |
 
 ---
 
-### 🛠️ Tech Stack
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=dracula&column=7&margin-w=15&no-bg=true&hide_border=true" alt="trophy" />
-</a>
-</p>
+## 🛠️ Tech Stack
 
-<p align="left">
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini_AI-000000?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow.js-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
-</p>
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Backend & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-000000?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-000000?style=flat-square&logo=google-cloud&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=white)
+
+**AI & Data**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-000000?style=flat-square&logo=google-gemini&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-000000?style=flat-square&logo=google-cloud&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-000000?style=flat-square&logo=arduino&logoColor=white)
 
 ---
 
-### 📊 GitHub Analysis
+## 🏆 Open Source
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400" />
-</p>
+| Program | Role | Contribution |
+|---|---|---|
+| SWOC 2025 | Contributor | 5 merged PRs to Daytona — docs & repository improvements. Selected from 1,000+ applicants. |
+| GSSoC 2025 | Mentor | Reviewed contributor PRs, provided code quality and Git workflow feedback. |
 
-### 🐍 The Contribution Journey
+---
+
+## 🐍 Contribution Graph
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
@@ -58,40 +73,29 @@
 
 ---
 
-### 💻 LeetCode Progress
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo" />
-</p>
+## 📜 Certifications
+
+- **Gemini for Data Scientists and Analysts** — Google Cloud Skills Boost · Dec 2025
+  - BigQuery · SQL · Gemini AI · ARIMA_PLUS time-series forecasting
+- **Introduction to Image Generation** — Google Cloud Skills Boost · Oct 2025
+  - Generative AI · Diffusion models
 
 ---
 
-### 📂 Featured Projects
-* **Fraud Proxy Attendance Detection:** AI-based system to prevent attendance manipulation.
+## 💻 LeetCode
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/amulyar122006?theme=dark&font=baloo&ext=heatmap)](https://leetcode.com/u/amulyar122006/)
 
 ---
 
-<p align="center">
-  🔊 <b>Don’t just read my profile… listen to it</b><br>
-  <audio controls>
-    <source src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3" type="audio/mpeg">
-  </audio><br>
-  🔗 <a href="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/voice.mp3">Click here if audio doesn’t play</a>
-</p>
+## 📬 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-r-962602324)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=netlify&logoColor=white)](https://amulya-r-portfolio.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/amulyar122006/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amulyar122006@gmail.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
 
 ---
 
-### 🤝 Let's Connect!
-<p align="left">
-  <a href="https://www.linkedin.com/in/amulya-r-962602324/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/amulyar122006/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:amulyacode20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://x.com/amulya_r7472">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+*B.E. Computer Science · Presidency University, Bengaluru · CGPA 8.56 · Expected 2028*
