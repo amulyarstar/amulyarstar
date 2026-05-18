@@ -11,6 +11,7 @@
 | Project | What it solves | Stack | Status |
 |---|---|---|---|
 | [TrustTrack](https://fraud-attendance-mvp.web.app/) | Eliminates proxy attendance fraud via AI identity verification | React · Firebase · Gemini API · RBAC | [🔴 Live](https://fraud-attendance-mvp.web.app/) · 85 users tested |
+| [Smart Canteen](https://github.com/amulyarstar/smart-canteen-dbms) | Campus food ordering system optimized with pessimistic locking and transit time reduction | Python · MySQL | Core Backend Built |
 | [Intelligent Resume Analyzer](https://github.com/amulyarstar/Intelligent-Resume-Analyzer_HiDevs) | Automated resume screening with skill-gap analysis & match scoring | Python · JSON | Solo · Live |
 | [SmartStreetlight-IoT](https://github.com/amulyarstar/SmartStreetlight-IoT) | Event-driven IoT streetlight with accident detection | Arduino C++ · LDR/PIR/Vibration · Blynk | Hardware · Built & tested |
 | [DSA-Solutions-Java](https://github.com/amulyarstar/DSA-Solutions-Java) | Structured daily DSA practice | Java | Ongoing |
