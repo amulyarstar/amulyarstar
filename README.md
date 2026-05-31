@@ -104,5 +104,4 @@
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
 
 ---
-
-*B.E. Computer Science · Presidency University, Bengaluru · CGPA 8.56 · Expected 2028*
+*B.E. Computer Science · Presidency University, Bengaluru · Expected 2028*
