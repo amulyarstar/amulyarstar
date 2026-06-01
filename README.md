@@ -76,13 +76,12 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=dracula&column=7&margin-w=15&no-bg=true&hide_border=true" alt="trophy" />
-</p>
+[![] (https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=dracula&column=7&margin-w=15&no-bg=true&hide_border=true)](https://github.com)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="streak" />
 </p>
+
 
 ---
 
