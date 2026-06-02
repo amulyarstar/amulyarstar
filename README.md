@@ -15,8 +15,6 @@ I build production-grade AI tools that ship to real users — not just side proj
 </div>
 
 ---
-<img src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/main/hii-girl-cartoon.png" width="250" alt="Hii Cartoon">
----
 
 ## 🧠 About Me
 
