@@ -31,6 +31,18 @@ strengths   : Moving fast from idea → deployed product · Writing clean, purpo
 
 ## 🚀 Featured Projects
 
+### 🟢 Offroad Semantic Segmentation — Computer Vision for Autonomous Navigation
+
+> Developed an end-to-end deep learning pipeline that performs pixel-level segmentation of offroad terrain to help autonomous vehicles identify safe drivable paths and detect environmental hazards.
+
+* **Problem Solved:** Autonomous systems struggle to navigate unstructured environments containing grass, dirt roads, rocks, trees, and varying illumination.
+* **Solution:** Built a semantic segmentation model capable of classifying terrain regions and generating navigable scene maps in real time.
+* **Stack:** `PyTorch` `OpenCV` `Albumentations` `DeepLabV3+` `SegFormer` `TensorBoard`
+* **Techniques:** Data Augmentation · Transfer Learning · Semantic Segmentation · Model Evaluation
+* **Metrics:** Mean IoU (mIoU) · Pixel Accuracy · Dice Coefficient
+* **Status:** 🟢 Computer Vision Project
+
+
 ### 🔵 [TrustTrack](https://fraud-attendance-mvp.web.app/) — AI-Powered Attendance Verification
 > Eliminates proxy attendance fraud using real-time AI identity verification with role-based access control.
 
