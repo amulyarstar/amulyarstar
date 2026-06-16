@@ -138,10 +138,6 @@ strengths   : Moving fast from idea → deployed product · Writing clean, purpo
 
 ## 🏆 GitHub Accomplishments
 
-![GitHub Trophies](https://github-profile-trophy.pages.dev/?username=amulyarstar&theme=tokyonight&no-frame=true&row=2&column=4)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400)
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
 </p>
