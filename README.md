@@ -4,8 +4,6 @@
 
 **Gen AI Developer · Full-Stack Engineer · B.E. CSE @ Presidency University, Bengaluru**
 
-I build production-grade AI tools that ship to real users — not just side projects that sit in repos.
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-r-962602324)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amulya-r-portfolio.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/amulyar122006/)
@@ -140,7 +138,7 @@ strengths   : Moving fast from idea → deployed product · Writing clean, purpo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=darkhub&column=7&margin-w=12&no-bg=true&hide_border=true" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
