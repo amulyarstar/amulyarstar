@@ -39,7 +39,7 @@ strengths   : Moving fast from idea → deployed product · Writing clean, purpo
 * **Techniques:** Data Augmentation · Transfer Learning · Semantic Segmentation · Model Evaluation
 * **Metrics:** Mean IoU (mIoU) · Pixel Accuracy · Dice Coefficient
 * **Status:** 🟢 Computer Vision Project
-
+---
 
 ### 🔵 [TrustTrack](https://fraud-attendance-mvp.web.app/) — AI-Powered Attendance Verification
 > Eliminates proxy attendance fraud using real-time AI identity verification with role-based access control.
