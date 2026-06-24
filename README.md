@@ -17,12 +17,13 @@
 ## 🧠 About Me
 
 ```yaml
-name        : Amulya R
-role        : Gen AI Developer Intern @ HiDevs
-location    : Bengaluru, India
-focus       : Shipping AI-powered products that solve real problems
-building    : Gemini API integrations · Full-stack web systems · IoT prototypes
-strengths   : Moving fast from idea → deployed product · Writing clean, purposeful code
+name     : Amulya R
+role     : Full-Stack Engineer & Gen AI Developer
+location : Bengaluru, India
+focus    : Shipping AI-powered products that solve real problems
+past     : Gen AI Developer Intern @ HiDevs
+building : Gemini API integrations · Full-stack web systems · ML pipelines
+strengths: Moving fast from idea → deployed product · Writing clean, purposeful code
 ```
 
 ---
