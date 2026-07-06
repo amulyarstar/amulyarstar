@@ -184,7 +184,8 @@ Every problem documented. No skips, no shortcuts.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=amulyarstar&theme=dark&hide_border=true&background=0a0a0a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=e94560&dates=888888" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e94560&icon_color=e94560&text_color=ffffff&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e94560&text_color=ffffff" width="38%"/>
 
 <br><br>
 
