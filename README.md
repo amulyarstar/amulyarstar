@@ -143,10 +143,31 @@ Every problem documented. No skips, no shortcuts.
 ![MySQL](https://img.shields.io/badge/MySQL-e94560?style=flat-square&logo=mysql&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-e94560?style=flat-square&logo=fastapi&logoColor=white)
 
-**— AI & DevOps —**
+**— AI & Gen AI —**
 
 ![Gemini API](https://img.shields.io/badge/Gemini_API-1a1a2e?style=flat-square&logo=google-gemini&logoColor=e94560)
+![LangChain](https://img.shields.io/badge/LangChain-1a1a2e?style=flat-square&logo=chainlink&logoColor=e94560)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=flat-square&logo=tensorflow&logoColor=e94560)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=flat-square&logo=pytorch&logoColor=e94560)
+![Streamlit](https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=e94560)
 ![BigQuery](https://img.shields.io/badge/BigQuery-1a1a2e?style=flat-square&logo=google-cloud&logoColor=e94560)
+
+**— Backend & APIs —**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-e94560?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-e94560?style=flat-square&logo=flask&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-e94560?style=flat-square&logo=fastapi&logoColor=white)
+
+**— Databases —**
+
+![MySQL](https://img.shields.io/badge/MySQL-e94560?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e94560?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-e94560?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-e94560?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-e94560?style=flat-square&logo=google-cloud&logoColor=white)
+
+**— DevOps —**
+
 ![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=e94560)
 ![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=e94560)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=flat-square&logo=kubernetes&logoColor=e94560)
@@ -154,9 +175,11 @@ Every problem documented. No skips, no shortcuts.
 **— Tools —**
 
 ![Git](https://img.shields.io/badge/Git-e94560?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-e94560?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-e94560?style=flat-square&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-e94560?style=flat-square&logo=googlecolab&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-e94560?style=flat-square&logo=figma&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-e94560?style=flat-square&logo=arduino&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-e94560?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 </div>
 
