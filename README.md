@@ -127,7 +127,8 @@ Every problem documented. No skips, no shortcuts.
 ![Java](https://img.shields.io/badge/Java-e94560?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-e94560?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e94560?style=flat-square&logo=javascript&logoColor=white)
-![C](https://img.shields.io/badge/C-e94560?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-e94560?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-e94560?style=flat-square&logo=cplusplus&logoColor=white)
 
 **— Frontend —**
 
