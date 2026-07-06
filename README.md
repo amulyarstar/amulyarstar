@@ -1,166 +1,209 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a2e&height=3&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=Amulya%20R&fontSize=52&fontColor=ffffff&fontAlignY=45&desc=Gen%20AI%20%C2%B7%20Full-Stack%20%C2%B7%20Builder&descAlignY=68&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,40:16213e,100:0f3460&height=220&section=header&text=Amulya%20R&fontSize=72&fontColor=e94560&fontAlignY=45&desc=%E2%95%B1%20Gen%20AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Builder%20%E2%80%A2%20Karnataka%20%E2%95%B2&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
 
-**Gen AI Developer · Full-Stack Engineer · B.E. CSE @ Presidency University, Bengaluru**
+<div align="right">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-r-962602324)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://amulya-r-portfolio.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/amulyar122006/)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amulyar122006@gmail.com)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-e94560?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-r-962602324)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-e94560?style=flat-square&logo=vercel&logoColor=white)](https://amulya-r-portfolio.netlify.app/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-e94560?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/amulyar122006/)
+[![Gmail](https://img.shields.io/badge/-Gmail-e94560?style=flat-square&logo=gmail&logoColor=white)](mailto:amulyacode20@gmail.com)
+[![X](https://img.shields.io/badge/-X-e94560?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
 
 </div>
 
+<br>
+
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
 ```yaml
-name     : Amulya R
-role     : Full-Stack Engineer & Gen AI Developer
-location : Bengaluru, India
-focus    : Shipping AI-powered products that solve real problems
-past     : Gen AI Developer Intern @ HiDevs
-building : Gemini API integrations · Full-stack web systems · ML pipelines
-strengths: Moving fast from idea → deployed product · Writing clean, purposeful code
+# ನಮಸ್ಕಾರ — this is not your average student profile
+
+amulya_r:
+  role        : "Gen AI Developer + Full-Stack Engineer"
+  location    : "Bengaluru, Karnataka 🇮🇳"
+  education   : "B.E. CSE @ Presidency University · Expected 2028"
+  experience  : "Gen AI Developer Intern @ HiDevs"
+  currently   : "Building AI-powered products that ship"
+  
+  what_i_do:
+    - "Gemini API integrations that go beyond the docs"
+    - "Full-stack systems from Figma to Firebase"
+    - "ML pipelines that actually make it to production"
+    
+  superpower  : "Idea → Deployed product, fast"
+  fuel        : "Filter coffee ☕ · DSA in Java · ನಾವು ಇಲ್ಲಿದ್ದೇವೆ"
 ```
 
 ---
 
-## 🚀 Featured Projects
+## ◈ Projects
 
-### 🟢 Offroad Semantic Segmentation — Computer Vision for Autonomous Navigation
+> *Not tutorials. Not clones. Real problems, real users.*
 
-> Developed an end-to-end deep learning pipeline that performs pixel-level segmentation of offroad terrain to help autonomous vehicles identify safe drivable paths and detect environmental hazards.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-* **Problem Solved:** Autonomous systems struggle to navigate unstructured environments containing grass, dirt roads, rocks, trees, and varying illumination.
-* **Solution:** Built a semantic segmentation model capable of classifying terrain regions and generating navigable scene maps in real time.
-* **Stack:** `PyTorch` `OpenCV` `Albumentations` `DeepLabV3+` `SegFormer` `TensorBoard`
-* **Techniques:** Data Augmentation · Transfer Learning · Semantic Segmentation · Model Evaluation
-* **Metrics:** Mean IoU (mIoU) · Pixel Accuracy · Dice Coefficient
-* **Status:** 🟢 Computer Vision Project
----
+### `01` · Offroad Segmentation
+**Computer Vision for Autonomous Navigation**
 
-### 🔵 [TrustTrack](https://fraud-attendance-mvp.web.app/) — AI-Powered Attendance Verification
-> Eliminates proxy attendance fraud using real-time AI identity verification with role-based access control.
+Pixel-level terrain segmentation to help autonomous vehicles find safe paths in unstructured environments — grass, dirt roads, rocks, varying light.
 
-- **Impact:** Tested with 85 users · Zero reported proxy bypasses in testing
-- **Challenge:** Traditional attendance systems have no identity layer — anyone can mark for someone else
-- **Stack:** `React` `Firebase` `Firestore` `Gemini API` `RBAC`
-- **Status:** 🟢 Live — [fraud-attendance-mvp.web.app](https://fraud-attendance-mvp.web.app/)
+`PyTorch` `DeepLabV3+` `SegFormer` `OpenCV` `Albumentations`
 
----
+📐 Metrics: mIoU · Pixel Accuracy · Dice Coefficient
 
-### 🟣 [Intelligent Resume Analyzer](https://github.com/amulyarstar/Intelligent-Resume-Analyzer_HiDevs) — Automated Screening Tool
-> Automated resume screening pipeline with skill-gap analysis and match scoring — built solo, deployed live.
+</td>
+<td width="50%" valign="top">
 
-- **Impact:** Cuts manual screening time · Outputs structured match reports with gaps flagged
-- **Challenge:** Manual resume review is slow and inconsistent — this standardizes it
-- **Stack:** `Python` `Gemini API` `JSON`
-- **Status:** 🟢 Live · Solo project
+### `02` · [TrustTrack](https://fraud-attendance-mvp.web.app/)
+**AI-Powered Attendance Verification** · 🟢 Live
 
----
+Zero proxy attendance — real-time AI identity verification with role-based access. Tested with 85 users, zero bypasses.
 
-### 🟠 [Smart Canteen](https://github.com/amulyarstar/smart-canteen-dbms) — Campus Food Ordering System
-> Backend-optimized food ordering system using pessimistic locking to prevent double-orders under concurrent load.
+`React` `Firebase` `Firestore` `Gemini API` `RBAC`
 
-- **Impact:** ~30% simulated reduction in order conflicts under peak load
-- **Challenge:** Concurrent DB writes cause race conditions — solved with transaction-level locking
-- **Stack:** `Python` `MySQL` `Pessimistic Locking`
-- **Status:** 🔧 Backend complete · UI in progress
+🔗 [fraud-attendance-mvp.web.app](https://fraud-attendance-mvp.web.app/)
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 🟡 [SmartStreetlight-IoT](https://github.com/amulyarstar/SmartStreetlight-IoT) — Event-Driven IoT System
-> Accident-detecting smart streetlight using multi-sensor fusion with real-time remote control via Blynk.
+### `03` · [Resume Analyzer](https://github.com/amulyarstar/Intelligent-Resume-Analyzer_HiDevs)
+**Automated Screening Tool** · 🟢 Live
 
-- **Impact:** Hardware built and field-tested · Responds to sensor events within ~200ms
-- **Challenge:** Static streetlights waste power and can't react to accidents — this one does both
-- **Stack:** `Arduino C++` `LDR · PIR · Vibration sensors` `Blynk IoT`
-- **Status:** ✅ Built & tested
+Cuts manual screening time. Skill-gap analysis + match scoring — built solo, deployed live.
 
----
+`Python` `Gemini API` `JSON`
 
-## 🛠️ Tech Stack
+</td>
+<td width="50%" valign="top">
 
-**Languages**
+### `04` · [Smart Canteen](https://github.com/amulyarstar/smart-canteen-dbms)
+**Campus Food Ordering System** · 🔧 In Progress
 
-![Java](https://img.shields.io/badge/Java-000?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=white)
+Pessimistic locking to prevent double-orders under concurrent load. ~30% reduction in order conflicts.
 
-**Frontend**
+`Python` `MySQL` `Pessimistic Locking`
 
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-000?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=white)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Cloud**
+### `05` · [SmartStreetlight IoT](https://github.com/amulyarstar/SmartStreetlight-IoT)
+**Event-Driven IoT System** · ✅ Built & Tested
 
-![Firebase](https://img.shields.io/badge/Firebase-000?style=flat-square&logo=firebase&logoColor=white)
-![Firestore](https://img.shields.io/badge/Firestore-000?style=flat-square&logo=google-cloud&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000?style=flat-square&logo=fastapi&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=flat-square&logo=mysql&logoColor=white)
+Accident-detecting streetlight with multi-sensor fusion. Reacts to events in ~200ms. Field tested.
 
-**AI & Data**
+`Arduino C++` `LDR · PIR · Vibration` `Blynk IoT`
 
-![Gemini API](https://img.shields.io/badge/Gemini_API-000?style=flat-square&logo=google-gemini&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-000?style=flat-square&logo=google-cloud&logoColor=white)
+</td>
+<td width="50%" valign="top">
 
-**Hardware & Tools**
+### `06` · [DSA in Java](https://github.com/amulyarstar/DSA-Solutions-Java)
+**Daily Problem Solving Log** · 🔄 Ongoing
 
-![Arduino](https://img.shields.io/badge/Arduino-000?style=flat-square&logo=arduino&logoColor=white)
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-000?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-000?style=flat-square&logo=visualstudiocode&logoColor=white)
+Every problem documented. No skips, no shortcuts.
+
+`Java` `Data Structures` `Algorithms`
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Open Source
+## ◈ Stack
 
-| Program | Role | What I Did |
-|---|---|---|
-| **SWOC 2025** | Contributor | 5 merged PRs to [Daytona](https://github.com/daytonaio/daytona) — rewrote onboarding docs, reducing setup confusion flagged in multiple issues. Selected from 1,000+ applicants. |
-| **GSSoC 2025** | Mentor | Reviewed 15+ contributor PRs, guided 8 first-time contributors on Git workflow and code quality standards. |
+<div align="center">
+
+**— Languages —**
+
+![Java](https://img.shields.io/badge/Java-e94560?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-e94560?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-e94560?style=flat-square&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-e94560?style=flat-square&logo=cplusplus&logoColor=white)
+
+**— Frontend —**
+
+![React](https://img.shields.io/badge/React-1a1a2e?style=flat-square&logo=react&logoColor=e94560)
+![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=e94560)
+![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=e94560)
+![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=e94560)
+
+**— Backend & Cloud —**
+
+![Firebase](https://img.shields.io/badge/Firebase-e94560?style=flat-square&logo=firebase&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-e94560?style=flat-square&logo=google-cloud&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-e94560?style=flat-square&logo=mysql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-e94560?style=flat-square&logo=fastapi&logoColor=white)
+
+**— AI & DevOps —**
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-1a1a2e?style=flat-square&logo=google-gemini&logoColor=e94560)
+![BigQuery](https://img.shields.io/badge/BigQuery-1a1a2e?style=flat-square&logo=google-cloud&logoColor=e94560)
+![Linux](https://img.shields.io/badge/Linux-1a1a2e?style=flat-square&logo=linux&logoColor=e94560)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=e94560)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=flat-square&logo=kubernetes&logoColor=e94560)
+
+**— Tools —**
+
+![Git](https://img.shields.io/badge/Git-e94560?style=flat-square&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-e94560?style=flat-square&logo=figma&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-e94560?style=flat-square&logo=arduino&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-e94560?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+</div>
 
 ---
 
-## 📜 Certifications
+## ◈ Open Source
 
-| Certification | Issuer | Skills |
-|---|---|---|
-| Gemini for Data Scientists and Analysts | Google Cloud · Dec 2025 | BigQuery · SQL · Gemini AI · ARIMA_PLUS forecasting |
-| Introduction to Image Generation | Google Cloud · Oct 2025 | Generative AI · Diffusion models |
-
----
-
-
-## 🏆 GitHub Accomplishments
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=amulyarstar&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-</p>
+| Program | Role | Impact |
+|:---|:---|:---|
+| **SWOC 2025** | Contributor | 5 merged PRs to [Daytona](https://github.com/daytonaio/daytona) · Rewrote onboarding docs · Selected from 1,000+ applicants |
+| **GSSoC 2025** | Mentor | Reviewed 15+ PRs · Guided 8 first-time contributors on Git & code quality |
 
 ---
 
-## 🐍 Contribution Activity
+## ◈ Certifications
+
+| | Certification | Issuer | Skills |
+|:---:|:---|:---|:---|
+| 🎖 | Gemini for Data Scientists & Analysts | Google Cloud · Dec 2025 | BigQuery · SQL · Gemini AI · ARIMA_PLUS |
+| 🎖 | Introduction to Image Generation | Google Cloud · Oct 2025 | Generative AI · Diffusion Models |
+
+---
+
+## ◈ GitHub
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=amulyarstar&theme=dark&hide_border=true&background=0a0a0a&ring=e94560&fire=e94560&currStreakLabel=e94560&sideLabels=e94560&dates=888888" width="60%"/>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg" width="90%"/>
 </picture>
+
+</div>
 
 ---
 
 <div align="center">
 
-*B.E. Computer Science · Presidency University, Bengaluru · Expected 2028*
+**Open to internships · collaborations · interesting problems**
 
-**Open to internships, collaborations, and interesting problems.**
+*ಮನ್ನು ಮಾಡು, ಮೇಲೆ ಏರು*
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f3460,60:16213e,100:0a0a0a&height=80&section=footer" width="100%"/>
