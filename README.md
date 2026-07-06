@@ -184,8 +184,11 @@ Every problem documented. No skips, no shortcuts.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amulyarstar&show_icons=true&hide_border=true&bg_color=0a0a0a&title_color=e94560&icon_color=e94560&text_color=ffffff&count_private=true" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amulyarstar&layout=compact&hide_border=true&bg_color=0a0a0a&title_color=e94560&text_color=ffffff" width="38%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amulyarstar&theme=github_dark" width="98%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amulyarstar&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amulyarstar&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amulyarstar&theme=github_dark" width="32%"/>
 
 <br><br>
 
