@@ -5,7 +5,7 @@
 <div align="right">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-e94560?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-r-962602324)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-e94560?style=flat-square&logo=vercel&logoColor=white)](https://amulya-r-portfolio.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-e94560?style=flat-square&logo=vercel&logoColor=white)](https://amulya-r.netlify.app/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-e94560?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/amulyar122006/)
 [![Gmail](https://img.shields.io/badge/-Gmail-e94560?style=flat-square&logo=gmail&logoColor=white)](mailto:amulyacode20@gmail.com)
 [![X](https://img.shields.io/badge/-X-e94560?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
