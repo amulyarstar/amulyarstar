@@ -213,10 +213,7 @@ Every problem documented. No skips, no shortcuts.
 
 ---
 
-
 ## ◈ GitHub
-
-![Rama Spark Contribution](https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/rama-contribution.svg)
 
 <div align="center">
 
