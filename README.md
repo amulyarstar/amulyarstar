@@ -9,7 +9,7 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-e94560?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/amulyar122006/)
 [![Gmail](https://img.shields.io/badge/-Gmail-e94560?style=flat-square&logo=gmail&logoColor=white)](mailto:amulyacode20@gmail.com)
 [![X](https://img.shields.io/badge/-X-e94560?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
-
+[![Views](https://komarev.com/ghpvc/?username=amulyarstar&color=e94560&style=flat-square&label=VIEWS)](https://github.com/amulyarstar/amulyarstar)
 </div>
 
 <br>
