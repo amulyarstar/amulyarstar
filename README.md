@@ -34,7 +34,7 @@ amulya_r:
     - "ML pipelines that actually make it to production"
     
   superpower  : "Idea → Deployed product, fast"
-  fuel        : "Filter coffee ☕ · DSA in Java · ನಾವು ಇಲ್ಲಿದ್ದೇವೆ"
+  fuel        : "Filter coffee  · DSA in Java · ನಾವು ಇಲ್ಲಿದ್ದೇವೆ"
 ```
 
 ---
