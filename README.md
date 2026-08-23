@@ -219,31 +219,6 @@ Every problem documented. No skips, no shortcuts.
 [![github trophy](https://github-profile-trophy.vercel.app/?username=amulyarstar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-## ◈ GitHub Stats
-
-<div align="center">
-
-  <!-- Overview Summary Card -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amulyarstar&theme=tokyonight" width="100%" />
-
-  <br><br>
-
-  <!-- Side-by-Side Stat Cards -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=amulyarstar&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amulyarstar&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=amulyarstar&theme=tokyonight" width="32%" />
-
-  <br><br>
-
-  <!-- Contribution Snake Animation -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg">
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/amulyarstar/amulyarstar/output/github-contribution-grid-snake.svg" width="90%" />
-  </picture>
-
-</div>
----
 
 ## ◈ GitHub
 
