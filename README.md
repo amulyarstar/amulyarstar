@@ -217,9 +217,7 @@ Every problem documented. No skips, no shortcuts.
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.screw-hand.vercel.app/?username=amulyarstar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
-
+  <img src="https://github-profile-trophy.screw-hand.vercel.app/?username=amulyarstar&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true&no-reflection=true" alt="amulyarstar github trophies" />
 </div>
 
 ---
