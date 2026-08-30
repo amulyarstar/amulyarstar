@@ -17,6 +17,7 @@
 <br>
 
 ---
+<img src="https://github.com/amulyarstar.png" width="200" align="right" style="border-radius: 50%;" />
 
 ## `$ whoami`
 
