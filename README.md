@@ -127,9 +127,7 @@ Every problem documented. No skips, no shortcuts.
 
 ![Java](https://img.shields.io/badge/Java-e94560?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-e94560?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-e94560?style=flat-square&logo=javascript&logoColor=white)
 ![C](https://img.shields.io/badge/C-e94560?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-e94560?style=flat-square&logo=cplusplus&logoColor=white)
 
 **— Frontend —**
 
@@ -137,7 +135,6 @@ Every problem documented. No skips, no shortcuts.
 ![Tailwind](https://img.shields.io/badge/Tailwind-1a1a2e?style=flat-square&logo=tailwindcss&logoColor=e94560)
 ![HTML5](https://img.shields.io/badge/HTML5-1a1a2e?style=flat-square&logo=html5&logoColor=e94560)
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=e94560)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 
@@ -174,7 +171,6 @@ Every problem documented. No skips, no shortcuts.
 ![MongoDB](https://img.shields.io/badge/MongoDB-e94560?style=flat-square&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-e94560?style=flat-square&logo=firebase&logoColor=white)
 ![Firestore](https://img.shields.io/badge/Firestore-e94560?style=flat-square&logo=google-cloud&logoColor=white)
-[![Neon](https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=neon&logoColor=black)](https://neon.tech/)
 [![Qdrant](https://img.shields.io/badge/Qdrant-FF4154?style=for-the-badge&logo=qdrant&logoColor=white)](https://qdrant.tech/)
 
 **— DevOps —**
