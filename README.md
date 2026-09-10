@@ -137,7 +137,6 @@ Every problem documented. No skips, no shortcuts.
 ![CSS3](https://img.shields.io/badge/CSS3-1a1a2e?style=flat-square&logo=css3&logoColor=e94560)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-
 **— Agentic Frameworks: —**
 
 [![Mastra](https://img.shields.io/badge/Mastra_Agents-F3F4F6?style=for-the-badge&logo=node.js&logoColor=blue)](https://mastra.dev/)
