@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0a0a0a,40:16213e,100:0f3460&height=220&section=header&text=Amulya%20R&fontSize=72&fontColor=e94560&fontAlignY=45&desc=%E2%95%B1%20Gen%20AI%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Builder%20%E2%80%A2%20Karnataka%20%E2%95%B2&descAlignY=68&descSize=16&animation=fadeIn" width="100%"/>
 
-
 <div align="right">
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-e94560?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/amulya-r-962602324)
@@ -12,7 +11,6 @@
 [![X](https://img.shields.io/badge/-X-e94560?style=flat-square&logo=x&logoColor=white)](https://x.com/amulya_r7472)
 [![Views](https://komarev.com/ghpvc/?username=amulyarstar&color=e94560&style=flat-square&label=VIEWS)](https://github.com/amulyarstar/amulyarstar)
 </div>
-
 <br>
 
 ---
