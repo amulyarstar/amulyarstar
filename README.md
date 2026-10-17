@@ -12,7 +12,6 @@
 [![Views](https://komarev.com/ghpvc/?username=amulyarstar&color=e94560&style=flat-square&label=VIEWS)](https://github.com/amulyarstar/amulyarstar)
 </div>
 <br>
-
 ---
 ## `$ whoami`
 
@@ -34,7 +33,6 @@ amulya_r:
   superpower  : "Idea → Deployed product, fast"
   fuel        : "Filter coffee  · DSA in Java · ನಾವು ಇಲ್ಲಿದ್ದೇವೆ"
 ```
-
 ---
 
 ## ◈ Projects
